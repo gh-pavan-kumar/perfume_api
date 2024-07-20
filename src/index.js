@@ -1,5 +1,5 @@
 const express = require("express");
-const perfumes = require("./data1.json");
+const perfumes = require("./data.json");
 const app = express();
 const PORT = 8000;
 
