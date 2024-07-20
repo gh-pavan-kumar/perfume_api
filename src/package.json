@@ -1,0 +1,15 @@
+{
+  "name": "perfume-ecomerce",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2",
+    "github": "^14.0.0"
+  }
+}
